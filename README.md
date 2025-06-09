@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/discord/995291757799538688.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/jVvC7HfM6U)
 [![QQ Group](https://img.shields.io/badge/QQ-HMCL-bright?label=&logo=tencentqq&logoColor=ffffff&color=1EBAFC&labelColor=1DB0EF&logoSize=auto)](https://docs.hmcl.net/groups.html)
 
-**English** | [简体中文](README_cn.md) | [繁體中文](README_tw.md)
+**简体中文** | [English](README_en.md) | [繁體中文](README_tw.md)
 
 ## Introduction
 
